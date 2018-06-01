@@ -1,0 +1,1 @@
+{"RedemptionSuccessNums":0,"RedemptionTotalNums":0,"UdpateAssetUserInfos":[{"SuccessNums":500,"TotalNums":500,"UserId":"CFFD5252C0814F4BBDBE014FFDC5B0BA"}]}

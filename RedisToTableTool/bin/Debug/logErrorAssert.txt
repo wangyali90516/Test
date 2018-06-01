@@ -1,0 +1,6 @@
+插入资产用户关系表时错误，错误信息A batch non-retrieve operation requires a non-null partition key and row key.
+参数名: itemuserId为002394C44BFB479981C74D5877816779,002394C44BFB479981C74D5877816779----------2017/10/19 16:07:54
+插入资产用户关系表时错误，错误信息A batch non-retrieve operation requires a non-null partition key and row key.
+参数名: itemuserId为002394C44BFB479981C74D5877816779,002394C44BFB479981C74D5877816779----------2017/10/19 16:12:30
+插入资产用户关系表时错误，错误信息Element 0 in the batch returned an unexpected response code.userId为002394C44BFB479981C74D5877816779,002394C44BFB479981C74D5877816779----------2017/10/19 16:16:17
+插入资产用户关系表时错误，错误信息Element 0 in the batch returned an unexpected response code.userId为002394C44BFB479981C74D5877816779,002394C44BFB479981C74D5877816779----------2017/10/19 16:16:28

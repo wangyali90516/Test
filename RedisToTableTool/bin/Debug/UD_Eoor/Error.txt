@@ -1,0 +1,67 @@
+索引超出了数组界限。-------------------   在 RedisToTableTool.UpdateAssetUserRatioForms.<>c.<btn_HandleThings_Click>b__11_2(String[] userInfo) 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 105
+   在 System.Linq.Enumerable.<>c__DisplayClass7_0`3.<CombineSelectors>b__0(TSource x)
+   在 System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   在 System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   在 System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<<btn_HandleThings_Click>b__11_0>d.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 105
+索引超出了数组界限。-------------------   在 RedisToTableTool.UpdateAssetUserRatioForms.<>c.<btn_HandleThings_Click>b__11_2(String[] userInfo) 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 105
+   在 System.Linq.Enumerable.<>c__DisplayClass7_0`3.<CombineSelectors>b__0(TSource x)
+   在 System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   在 System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   在 System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<<btn_HandleThings_Click>b__11_0>d.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 105
+索引超出了数组界限。-------------------   在 RedisToTableTool.UpdateAssetUserRatioForms.<>c.<btn_HandleThings_Click>b__11_2(String[] userInfo) 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 105
+   在 System.Linq.Enumerable.<>c__DisplayClass7_0`3.<CombineSelectors>b__0(TSource x)
+   在 System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   在 System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   在 System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<<btn_HandleThings_Click>b__11_0>d.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 105
+索引超出了数组界限。-------------------   在 RedisToTableTool.UpdateAssetUserRatioForms.<>c.<btn_HandleThings_Click>b__11_2(String[] userInfo) 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 105
+   在 System.Linq.Enumerable.<>c__DisplayClass7_0`3.<CombineSelectors>b__0(TSource x)
+   在 System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   在 System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   在 System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<<btn_HandleThings_Click>b__11_0>d.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 105
+发生一个或多个错误。-------------------   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks, Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks, Int32 millisecondsTimeout)
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<btn_HandleThings_Click>d__11.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 317
+值对于 Int32 太大或太小。-------------------   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<>c.<btn_HandleThings_Click>b__11_1(String[] userInfo) 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 102
+   在 System.Linq.Enumerable.<>c__DisplayClass7_0`3.<CombineSelectors>b__0(TSource x)
+   在 System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   在 System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   在 System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<btn_HandleThings_Click>d__11.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 102
+发生一个或多个错误。-------------------   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks, Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks, Int32 millisecondsTimeout)
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<btn_HandleThings_Click>d__11.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 315
+发生一个或多个错误。-------------------   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks, Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks, Int32 millisecondsTimeout)
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<btn_HandleThings_Click>d__11.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 315
+发生一个或多个错误。-------------------   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks, Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks, Int32 millisecondsTimeout)
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<btn_HandleThings_Click>d__11.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 315
+该字符串未被识别为有效的 DateTime。-------------------   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.Convert.ToDateTime(String value)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<btn_HandleThings_Click>d__11.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 98
+发生一个或多个错误。-------------------   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks, Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks, Int32 millisecondsTimeout)
+   在 System.Threading.Tasks.Task.WaitAll(Task[] tasks)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<btn_HandleThings_Click>d__11.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 318
+该字符串未被识别为有效的 DateTime。-------------------   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.Convert.ToDateTime(String value)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<btn_HandleThings_Click>d__11.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 98
+该字符串未被识别为有效的 DateTime。-------------------   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.Convert.ToDateTime(String value)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<btn_HandleThings_Click>d__11.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 98
+该字符串未被识别为有效的 DateTime。-------------------   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.Convert.ToDateTime(String value)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<btn_HandleThings_Click>d__11.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 98
+该字符串未被识别为有效的 DateTime。-------------------   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.Convert.ToDateTime(String value)
+   在 RedisToTableTool.UpdateAssetUserRatioForms.<btn_HandleThings_Click>d__11.MoveNext() 位置 D:\TransferTools\RedisToTableTool\UpdateAssetUserRatioForms.cs:行号 98

@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JymTool", "JymTool\JymTool.csproj", "{F7B58C50-A0E1-4E48-9BAB-1B3A54F2D252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncReadBlobTool", "SyncReadBlobTool\SyncReadBlobTool.csproj", "{91BAA764-4D74-4D9B-9367-570B54CDCC7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallJYMTool", "SmallJYMTool\SmallJYMTool.csproj", "{13A442CE-0B7F-4C26-844B-855C8ECE2D71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserToAssetTool", "UserToAssetTool\UserToAssetTool.csproj", "{6986ECAD-FD24-4490-9D28-8D764CDDD07E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateRegularAssetToProduct", "UpdateRegularAssetToProduct\UpdateRegularAssetToProduct.csproj", "{B5E5C7C7-0103-46BD-849E-1BB2D86DE8A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisToTableTool", "RedisToTableTool\RedisToTableTool.csproj", "{86C610B0-F64E-4191-BFEF-5664AC5FB696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{EFBB1F1B-A22E-427D-B79A-6F559B2CCAF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B58C50-A0E1-4E48-9BAB-1B3A54F2D252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B58C50-A0E1-4E48-9BAB-1B3A54F2D252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B58C50-A0E1-4E48-9BAB-1B3A54F2D252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B58C50-A0E1-4E48-9BAB-1B3A54F2D252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BAA764-4D74-4D9B-9367-570B54CDCC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BAA764-4D74-4D9B-9367-570B54CDCC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BAA764-4D74-4D9B-9367-570B54CDCC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BAA764-4D74-4D9B-9367-570B54CDCC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A442CE-0B7F-4C26-844B-855C8ECE2D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A442CE-0B7F-4C26-844B-855C8ECE2D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A442CE-0B7F-4C26-844B-855C8ECE2D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A442CE-0B7F-4C26-844B-855C8ECE2D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6986ECAD-FD24-4490-9D28-8D764CDDD07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6986ECAD-FD24-4490-9D28-8D764CDDD07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6986ECAD-FD24-4490-9D28-8D764CDDD07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6986ECAD-FD24-4490-9D28-8D764CDDD07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E5C7C7-0103-46BD-849E-1BB2D86DE8A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E5C7C7-0103-46BD-849E-1BB2D86DE8A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E5C7C7-0103-46BD-849E-1BB2D86DE8A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E5C7C7-0103-46BD-849E-1BB2D86DE8A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C610B0-F64E-4191-BFEF-5664AC5FB696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C610B0-F64E-4191-BFEF-5664AC5FB696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C610B0-F64E-4191-BFEF-5664AC5FB696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C610B0-F64E-4191-BFEF-5664AC5FB696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFBB1F1B-A22E-427D-B79A-6F559B2CCAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBB1F1B-A22E-427D-B79A-6F559B2CCAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBB1F1B-A22E-427D-B79A-6F559B2CCAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBB1F1B-A22E-427D-B79A-6F559B2CCAF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45
+		SolutionGuid = {08160BDE-600E-48B5-981F-751EA8EAF899}
+	EndGlobalSection
+EndGlobal

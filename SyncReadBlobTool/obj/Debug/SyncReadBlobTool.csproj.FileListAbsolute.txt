@@ -1,0 +1,398 @@
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.exe.config
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.exe
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.pdb
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Diagnostics.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Orleans.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Web.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\NLog.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Orleans.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\ReflectionMagic.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\System.Spatial.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Diagnostics.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Orleans.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Web.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\NLog.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\Orleans.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\System.Spatial.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.exe
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.pdb
+C:\Users\wang.yali\documents\visual studio 2017\Projects\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.csprojResolveAssemblyReference.cache
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.exe.config
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.exe
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.pdb
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Edm.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.OData.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Services.Client.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Diagnostics.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Orleans.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Web.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Newtonsoft.Json.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\NLog.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Orleans.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\ReflectionMagic.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Extensions.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Formatting.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Primitives.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\System.Spatial.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.WebHost.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Edm.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.OData.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Services.Client.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Diagnostics.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Orleans.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Web.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Newtonsoft.Json.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\NLog.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\Orleans.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Formatting.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\System.Spatial.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.WebHost.xml
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\de\System.Spatial.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\es\System.Spatial.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\fr\System.Spatial.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\it\System.Spatial.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\ja\System.Spatial.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\ko\System.Spatial.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\ru\System.Spatial.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.exe
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.pdb
+E:\WangYaLi\NewCode\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.csprojResolveAssemblyReference.cache
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.exe.config
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.exe
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.pdb
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Diagnostics.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Orleans.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Web.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\NLog.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Orleans.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\ReflectionMagic.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\System.Spatial.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Diagnostics.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Orleans.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Web.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\NLog.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\Orleans.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\System.Spatial.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.csprojResolveAssemblyReference.cache
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.csproj.CoreCompileInputs.cache
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.exe
+C:\Users\yang.fan\Desktop\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.pdb
+D:\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.exe.config
+D:\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.exe
+D:\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.pdb
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Edm.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.OData.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Diagnostics.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Orleans.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Web.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Newtonsoft.Json.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\NLog.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Orleans.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\ReflectionMagic.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Extensions.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Formatting.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Primitives.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\System.Spatial.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.WebHost.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Edm.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.OData.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Diagnostics.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Orleans.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Web.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Newtonsoft.Json.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\NLog.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\Orleans.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Formatting.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\System.Spatial.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.WebHost.xml
+D:\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\de\System.Spatial.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\es\System.Spatial.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\fr\System.Spatial.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\it\System.Spatial.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\ja\System.Spatial.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\ko\System.Spatial.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\ru\System.Spatial.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.csprojResolveAssemblyReference.cache
+D:\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.csproj.CoreCompileInputs.cache
+D:\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.exe
+D:\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.pdb
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.exe.config
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.exe
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\SyncReadBlobTool.pdb
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Edm.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.OData.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Diagnostics.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Orleans.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Web.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Newtonsoft.Json.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\NLog.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Orleans.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\ReflectionMagic.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Extensions.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Formatting.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Primitives.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\System.Spatial.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.WebHost.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Edm.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.OData.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Diagnostics.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Orleans.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\MoeLib.Web.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Newtonsoft.Json.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\NLog.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\Orleans.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\System.Net.Http.Formatting.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\System.Spatial.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\System.Web.Http.WebHost.xml
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\de\System.Spatial.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\es\System.Spatial.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\fr\System.Spatial.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\it\System.Spatial.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\ja\System.Spatial.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\ko\System.Spatial.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\ru\System.Spatial.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\SmallTools\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.csprojResolveAssemblyReference.cache
+D:\SmallTools\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.csproj.CoreCompileInputs.cache
+D:\SmallTools\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.exe
+D:\SmallTools\TransferTools\SyncReadBlobTool\obj\Debug\SyncReadBlobTool.pdb

@@ -1,0 +1,6 @@
+{"AssetId":"BFE30306EAF542F5A92767BFB4BA8F62","Capital":400006,"Denominator":6000000,"IsDeleted":false,"IsInvestSuccess":true,"IsNotifyTradingSuccess":false,"IsReturned":false,"Numerator":400006,"OriginalUserAssetRatioId":"AC53B3EB0455470CA9E5ABDA442F415F","Reserve":"1","Status":2,"UserAssetRatioId":"AC53B3EB0455470CA9E5ABDA442F415F","UserId":"205A35A833804C0AB102015FC55D85A6"}
+
+
+{"AssetId":"BFE30306EAF542F5A92767BFB4BA8F62","Capital":400006,"Denominator":6000000,"IsDeleted":false,"IsInvestSuccess":true,"IsNotifyTradingSuccess":false,"IsReturned":false,"Numerator":400006,"OriginalUserAssetRatioId":"E96D0A297EA0403C8B606A64D5E55F2F","Reserve":"1","Status":2,"UserAssetRatioId":"E96D0A297EA0403C8B606A64D5E55F2F","UserId":"205A35A833804C0AB102015FC55D85A6"}
+
+

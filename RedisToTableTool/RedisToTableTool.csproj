@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{86C610B0-F64E-4191-BFEF-5664AC5FB696}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RedisToTableTool</RootNamespace>
+    <AssemblyName>RedisToTableTool</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="J.Base.Lib, Version=1.1.1.6, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\J.Base.Lib.1.1.1.6\lib\net451\J.Base.Lib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Azure.KeyVault.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Azure.KeyVault.Core.1.0.0\lib\net40\Microsoft.Azure.KeyVault.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.Edm, Version=5.8.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Data.Edm.5.8.2\lib\net40\Microsoft.Data.Edm.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.OData, Version=5.8.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Data.OData.5.8.2\lib\net40\Microsoft.Data.OData.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.Services.Client, Version=5.8.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Data.Services.Client.5.8.2\lib\net40\Microsoft.Data.Services.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ServiceBus, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\WindowsAzure.ServiceBus.4.1.6\lib\net45\Microsoft.ServiceBus.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAzure.Storage, Version=8.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\WindowsAzure.Storage.8.5.0\lib\net45\Microsoft.WindowsAzure.Storage.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.4.2.3\lib\net45\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="StackExchange.Redis, Version=1.2.6.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\StackExchange.Redis.1.2.6\lib\net46\StackExchange.Redis.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http">
+      <HintPath>..\packages\System.Net.Http.2.0.20126.16343\lib\net40\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.Extensions, Version=2.2.29.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.Formatting.Extension.5.2.3.0\lib\System.Net.Http.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.Formatting.Extension.5.2.3.0\lib\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Primitives, Version=4.2.29.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.Formatting.Extension.5.2.3.0\lib\System.Net.Http.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+      <HintPath>..\packages\System.Net.Http.2.0.20126.16343\lib\net40\System.Net.Http.WebRequest.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Spatial, Version=5.8.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Spatial.5.8.2\lib\net40\System.Spatial.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddAssets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAssets.Designer.cs">
+      <DependentUpon>AddAssets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddBatchUserAssetRatio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddBatchUserAssetRatio.Designer.cs">
+      <DependentUpon>AddBatchUserAssetRatio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddOnSellAssetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddOnSellAssetForm.Designer.cs">
+      <DependentUpon>AddOnSellAssetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AzureTableStorage.cs" />
+    <Compile Include="CheckDiskAssetInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckDiskAssetInfo.Designer.cs">
+      <DependentUpon>CheckDiskAssetInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckOneRedisUserAssetInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckOneRedisUserAssetInfoForm.Designer.cs">
+      <DependentUpon>CheckOneRedisUserAssetInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComputerUserTotalMoneyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComputerUserTotalMoneyForm.Designer.cs">
+      <DependentUpon>ComputerUserTotalMoneyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigsManager.cs" />
+    <Compile Include="ConsumeDeatMsgForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsumeDeatMsgForm.Designer.cs">
+      <DependentUpon>ConsumeDeatMsgForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CountHasCreditAssignmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CountHasCreditAssignmentForm.Designer.cs">
+      <DependentUpon>CountHasCreditAssignmentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enum\CheckStatus.cs" />
+    <Compile Include="Enum\PurchaseOrderStatus.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetCancelBookDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetCancelBookDataForm.Designer.cs">
+      <DependentUpon>GetCancelBookDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetJsonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetJsonForm.Designer.cs">
+      <DependentUpon>GetJsonForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetRebateToBank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetRebateToBank.Designer.cs">
+      <DependentUpon>GetRebateToBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GrantForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GrantForm.Designer.cs">
+      <DependentUpon>GrantForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IAzureTableStorage.cs" />
+    <Compile Include="JymService\AssetApiService.cs" />
+    <Compile Include="JymService\BankGatewayService.cs" />
+    <Compile Include="JymService\YemApiService.cs" />
+    <Compile Include="LoadAppSettings.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="Model\AccountUsers.cs" />
+    <Compile Include="Model\AdvancedDebtInfo.cs" />
+    <Compile Include="Model\AdvanceDebtRequest.cs" />
+    <Compile Include="Model\AllocationOnSellAssetDto.cs" />
+    <Compile Include="Model\AllocationYemUserProduct.cs" />
+    <Compile Include="Model\AssetBaseDto.cs" />
+    <Compile Include="Model\AssetDebtRebatesModel.cs" />
+    <Compile Include="Model\AssetDebtToTransferModel.cs" />
+    <Compile Include="Model\AssetInfoResponse.cs" />
+    <Compile Include="Model\AssetResponse.cs" />
+    <Compile Include="Model\AssetUserRelationResponse.cs" />
+    <Compile Include="Model\AuditMessageRequest.cs" />
+    <Compile Include="Model\BankGatewayBaseResponse.cs" />
+    <Compile Include="Model\BankGatewayResponse.cs" />
+    <Compile Include="Model\BaseRequest.cs" />
+    <Compile Include="Model\BaseResponse.cs" />
+    <Compile Include="Model\BatchCreditInfo.cs" />
+    <Compile Include="Model\BatchOrderSearchResponse.cs" />
+    <Compile Include="Model\BookFrezzeModel.cs" />
+    <Compile Include="Model\BookInvestingModel.cs" />
+    <Compile Include="Model\CancelBookModel.cs" />
+    <Compile Include="Model\CgYemOrderInfo.cs" />
+    <Compile Include="Model\CommomResult.cs" />
+    <Compile Include="Model\ConfirmAdvanceDebtRequest.cs" />
+    <Compile Include="Model\DeptModel.cs" />
+    <Compile Include="Model\DeptSimpleInfo.cs" />
+    <Compile Include="Model\DraftBillAddRequest.cs" />
+    <Compile Include="Model\InsertOnSellAssetInput.cs" />
+    <Compile Include="Model\LoanMoneyRequest.cs" />
+    <Compile Include="Model\MerchantBillAddRequest.cs" />
+    <Compile Include="Model\ModifyUserAssetRatio.cs" />
+    <Compile Include="Model\NotifyBatchCreditRequest.cs" />
+    <Compile Include="Model\OnSellAssetDto.cs" />
+    <Compile Include="Model\OnSellAssetInfo.cs" />
+    <Compile Include="Model\OnSellAssetOutput.cs" />
+    <Compile Include="Model\OrderSearchResponse.cs" />
+    <Compile Include="Model\RedeemOrderInfo.cs" />
+    <Compile Include="Model\RefundMoneyRequest.cs" />
+    <Compile Include="Model\RollBackDataModel.cs" />
+    <Compile Include="Model\RpOrder.cs" />
+    <Compile Include="Model\SendDebtForBankModel.cs" />
+    <Compile Include="Model\TifisfalPurchaseRequestModel.cs" />
+    <Compile Include="Model\TirisfalUserRedemptionInfoModel.cs" />
+    <Compile Include="Model\UpdateUserAssetRatioInfos.cs" />
+    <Compile Include="Model\UpdateYemResponse.cs" />
+    <Compile Include="Model\UserAssetRatio.cs" />
+    <Compile Include="Model\UserAssetRatios.cs" />
+    <Compile Include="Model\UserInfo.cs" />
+    <Compile Include="Model\UserInfoRedis.cs" />
+    <Compile Include="Model\UserRedeemOrderInfo.cs" />
+    <Compile Include="Model\UserRedemptionInfo.cs" />
+    <Compile Include="Model\YemUserOrderInfo.cs" />
+    <Compile Include="Model\YEMUserProductDto.cs" />
+    <Compile Include="Model\YemUserProductInfo.cs" />
+    <Compile Include="ModifyUserAssetRatioRequest.cs" />
+    <Compile Include="NLogger.cs" />
+    <Compile Include="NotifyTrisferSystemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotifyTrisferSystemForm.Designer.cs">
+      <DependentUpon>NotifyTrisferSystemForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrePurchaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrePurchaseForm.Designer.cs">
+      <DependentUpon>PrePurchaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProcessAllDeptForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcessAllDeptForm.Designer.cs">
+      <DependentUpon>ProcessAllDeptForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RedisCacheHelper.cs" />
+    <Compile Include="RedisHelper.cs" />
+    <Compile Include="RedisHelperSpecial.cs" />
+    <Compile Include="ReloadUserAssetRatioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReloadUserAssetRatioForm.Designer.cs">
+      <DependentUpon>ReloadUserAssetRatioForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RepairDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RepairDataForm.Designer.cs">
+      <DependentUpon>RepairDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RollBackDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RollBackDataForm.Designer.cs">
+      <DependentUpon>RollBackDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchRedisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchRedisForm.Designer.cs">
+      <DependentUpon>SearchRedisForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service\JymService.cs" />
+    <Compile Include="SqlHelper\AssetApiSqlHelper.cs" />
+    <Compile Include="SqlHelper\BaseTsourceDAL.cs" />
+    <Compile Include="SqlHelper\Class1.cs" />
+    <Compile Include="SqlHelper\SqlHelper.cs" />
+    <Compile Include="SqlHelper\TsourceDAL.cs" />
+    <Compile Include="SqlHelper\YemApiSqlHelper.cs" />
+    <Compile Include="UpdateAssetUserRatioForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateAssetUserRatioForms.Designer.cs">
+      <DependentUpon>UpdateAssetUserRatioForms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateDataFromBank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateDataFromBank.Designer.cs">
+      <DependentUpon>UpdateDataFromBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateUserAssetratio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateUserAssetratio.Designer.cs">
+      <DependentUpon>UpdateUserAssetratio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateUserAssetRatioInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateUserAssetRatioInfoForm.Designer.cs">
+      <DependentUpon>UpdateUserAssetRatioInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateYemUserProductInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateYemUserProductInfoForm.Designer.cs">
+      <DependentUpon>UpdateYemUserProductInfoForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddAssets.resx">
+      <DependentUpon>AddAssets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddBatchUserAssetRatio.resx">
+      <DependentUpon>AddBatchUserAssetRatio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddOnSellAssetForm.resx">
+      <DependentUpon>AddOnSellAssetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckDiskAssetInfo.resx">
+      <DependentUpon>CheckDiskAssetInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckOneRedisUserAssetInfoForm.resx">
+      <DependentUpon>CheckOneRedisUserAssetInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComputerUserTotalMoneyForm.resx">
+      <DependentUpon>ComputerUserTotalMoneyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsumeDeatMsgForm.resx">
+      <DependentUpon>ConsumeDeatMsgForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CountHasCreditAssignmentForm.resx">
+      <DependentUpon>CountHasCreditAssignmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetCancelBookDataForm.resx">
+      <DependentUpon>GetCancelBookDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetJsonForm.resx">
+      <DependentUpon>GetJsonForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetRebateToBank.resx">
+      <DependentUpon>GetRebateToBank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GrantForm.resx">
+      <DependentUpon>GrantForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotifyTrisferSystemForm.resx">
+      <DependentUpon>NotifyTrisferSystemForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrePurchaseForm.resx">
+      <DependentUpon>PrePurchaseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProcessAllDeptForm.resx">
+      <DependentUpon>ProcessAllDeptForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ReloadUserAssetRatioForm.resx">
+      <DependentUpon>ReloadUserAssetRatioForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RepairDataForm.resx">
+      <DependentUpon>RepairDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RollBackDataForm.resx">
+      <DependentUpon>RollBackDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchRedisForm.resx">
+      <DependentUpon>SearchRedisForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateAssetUserRatioForms.resx">
+      <DependentUpon>UpdateAssetUserRatioForms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateDataFromBank.resx">
+      <DependentUpon>UpdateDataFromBank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateUserAssetratio.resx">
+      <DependentUpon>UpdateUserAssetratio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateUserAssetRatioInfoForm.resx">
+      <DependentUpon>UpdateUserAssetRatioInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateYemUserProductInfoForm.resx">
+      <DependentUpon>UpdateYemUserProductInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MoeLib.Orleans</name>
+    </assembly>
+    <members>
+        <member name="T:MoeLib.Orleans.IMoeGrain">
+            <summary>
+                Interface IMoeGrain
+            </summary>
+        </member>
+        <member name="P:MoeLib.Orleans.IMoeGrain.IdentityString">
+            <summary>
+                String representation of grain's SiloIdentity including type and primary key.
+            </summary>
+        </member>
+        <member name="P:MoeLib.Orleans.IMoeGrain.RuntimeIdentity">
+            <summary>
+                A unique identifier for the current silo.
+                There is no semantic content to this string, but it may be useful for logging.
+            </summary>
+        </member>
+        <member name="M:MoeLib.Orleans.IMoeGrain.GetOrRegisterReminder(System.String,System.TimeSpan,System.TimeSpan)">
+            <summary>
+                Get a previously registered reminder or registers a new persistent, reliable reminder to send regular notifications (reminders) to the MoeGrainBase.
+                The MoeGrainBase must implement the <c>Orleans.IRemindable</c> interface, and reminders for this MoeGrainBase will be sent to the <c>ReceiveReminder</c> callback method.
+                If the current MoeGrainBase is deactivated when the timer fires, a new activation of this MoeGrainBase will be created to receive this reminder.
+                If an existing reminder with the same name already exists, that reminder will be overwritten with this new reminder.
+                Reminders will always be received by one activation of this MoeGrainBase, even if multiple activations exist for this MoeGrainBase.
+            </summary>
+            <param name="reminderName">Name of this reminder</param>
+            <param name="dueTime">Due time for this reminder</param>
+            <param name="period">Frequence period for this reminder</param>
+            <returns>Promise for Reminder handle.</returns>
+        </member>
+        <member name="M:MoeLib.Orleans.IMoeGrain.UnregisterReminder(System.String)">
+            <summary>
+                Unregisters a previously registered reminder or do nothing if the reminder has not been registered.
+            </summary>
+            <param name="reminderName">Name of the reminder to unregister.</param>
+            <returns>Completion promise for this operation.</returns>
+        </member>
+        <member name="T:MoeLib.Orleans.MoeGrainBase">
+            <summary>
+                MoeGrainBase.
+            </summary>
+        </member>
+        <member name="P:MoeLib.Orleans.MoeGrainBase.GrainFactory">
+            <summary>
+                Gets the grain factory.
+            </summary>
+            <value>The grain factory.</value>
+        </member>
+        <member name="M:MoeLib.Orleans.MoeGrainBase.GetOrRegisterReminder(System.String,System.TimeSpan,System.TimeSpan)">
+            <summary>
+                Get a previously registered reminder or registers a new persistent, reliable reminder to send regular notifications (reminders) to the MoeGrainBase.
+                The MoeGrainBase must implement the <c>Orleans.IRemindable</c> interface, and reminders for this MoeGrainBase will be sent to the <c>ReceiveReminder</c> callback method.
+                If the current MoeGrainBase is deactivated when the timer fires, a new activation of this MoeGrainBase will be created to receive this reminder.
+                If an existing reminder with the same name already exists, that reminder will be overwritten with this new reminder.
+                Reminders will always be received by one activation of this MoeGrainBase, even if multiple activations exist for this MoeGrainBase.
+            </summary>
+            <param name="reminderName">Name of this reminder</param>
+            <param name="dueTime">Due time for this reminder</param>
+            <param name="period">Frequence period for this reminder</param>
+            <returns>Promise for Reminder handle.</returns>
+        </member>
+        <member name="M:MoeLib.Orleans.MoeGrainBase.UnregisterReminder(System.String)">
+            <summary>
+                Unregisters a previously registered reminder or do nothing if the reminder has not been registered.
+            </summary>
+            <param name="reminderName">Name of the reminder to unregister.</param>
+            <returns>Completion promise for this operation.</returns>
+        </member>
+        <member name="T:MoeLib.Orleans.MoeGrain">
+            <summary>
+                MoeGrain.
+            </summary>
+        </member>
+        <member name="M:MoeLib.Orleans.MoeGrain.GetOrRegisterReminder(System.String,System.TimeSpan,System.TimeSpan)">
+            <summary>
+                Get a previously registered reminder or registers a new persistent, reliable reminder to send regular notifications (reminders) to the MoeGrainBase.
+                The MoeGrainBase must implement the <c>Orleans.IRemindable</c> interface, and reminders for this MoeGrainBase will be sent to the <c>ReceiveReminder</c> callback method.
+                If the current MoeGrainBase is deactivated when the timer fires, a new activation of this MoeGrainBase will be created to receive this reminder.
+                If an existing reminder with the same name already exists, that reminder will be overwritten with this new reminder.
+                Reminders will always be received by one activation of this MoeGrainBase, even if multiple activations exist for this MoeGrainBase.
+            </summary>
+            <param name="reminderName">Name of this reminder</param>
+            <param name="dueTime">Due time for this reminder</param>
+            <param name="period">Frequence period for this reminder</param>
+            <returns>Promise for Reminder handle.</returns>
+        </member>
+        <member name="M:MoeLib.Orleans.MoeGrain.UnregisterReminder(System.String)">
+            <summary>
+                Unregisters a previously registered reminder or do nothing if the reminder has not been registered.
+            </summary>
+            <param name="reminderName">Name of the reminder to unregister.</param>
+            <returns>Completion promise for this operation.</returns>
+        </member>
+        <member name="T:MoeLib.Orleans.MoeGrain`1">
+            <summary>
+                MoeGrain.
+            </summary>
+            <typeparam name="TGrainState">The type of the t grain state.</typeparam>
+        </member>
+        <member name="M:MoeLib.Orleans.MoeGrain`1.GetOrRegisterReminder(System.String,System.TimeSpan,System.TimeSpan)">
+            <summary>
+                Get a previously registered reminder or registers a new persistent, reliable reminder to send regular notifications (reminders) to the MoeGrainBase.
+                The MoeGrainBase must implement the <c>Orleans.IRemindable</c> interface, and reminders for this MoeGrainBase will be sent to the <c>ReceiveReminder</c> callback method.
+                If the current MoeGrainBase is deactivated when the timer fires, a new activation of this MoeGrainBase will be created to receive this reminder.
+                If an existing reminder with the same name already exists, that reminder will be overwritten with this new reminder.
+                Reminders will always be received by one activation of this MoeGrainBase, even if multiple activations exist for this MoeGrainBase.
+            </summary>
+            <param name="reminderName">Name of this reminder</param>
+            <param name="dueTime">Due time for this reminder</param>
+            <param name="period">Frequence period for this reminder</param>
+            <returns>Promise for Reminder handle.</returns>
+        </member>
+        <member name="M:MoeLib.Orleans.MoeGrain`1.UnregisterReminder(System.String)">
+            <summary>
+                Unregisters a previously registered reminder or do nothing if the reminder has not been registered.
+            </summary>
+            <param name="reminderName">Name of the reminder to unregister.</param>
+            <returns>Completion promise for this operation.</returns>
+        </member>
+    </members>
+</doc>
